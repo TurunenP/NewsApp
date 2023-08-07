@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_app_api/views/article_view.dart';
+import 'package:news_app/views/article_view.dart';
 
 Widget MyAppBar(){
   return AppBar(

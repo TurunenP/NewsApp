@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app_api/helper/data.dart';
-import 'package:news_app_api/helper/widgets.dart';
-import 'package:news_app_api/models/categorie_model.dart';
-import 'package:news_app_api/views/categorie_news.dart';
+import 'package:news_app/helper/data.dart';
+import 'package:news_app/helper/widgets.dart';
+import 'package:news_app/models/category_model.dart';
+import 'package:news_app/views/category_news.dart';
 import '../helper/news.dart';
 
 class HomePage extends StatefulWidget {
@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   bool _loading;
   var newslist;
 
-  List<CategorieModel> categories = List<CategorieModel>();
+  List<CategoryModel> categories = List<CategoryModel>();
 
   void getNews() async {
     News news = News();
@@ -59,8 +59,8 @@ class _HomePageState extends State<HomePage> {
                             itemCount: categories.length,
                             itemBuilder: (context, index) {
                               return CategoryCard(
-                                imageAssetUrl: categories[index].imageAssetUrl,
-                                categoryName: categories[index].categorieName,
+                                imageAssetUrl: categories[index].imageUrl,
+                                categoryName: categories[index].categoryName,
                               );
                             }),
                       ),
