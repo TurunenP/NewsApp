@@ -12,7 +12,7 @@ News App developed with Flutter and API from - [NewsAPI)](https://newsapi.org/):
 **Code Editor:** - [Visual Studio Code)](https://code.visualstudio.com/)
 
 **Project management and tool:**  - [Trello)](https://trello.com/templates/project-management): Below;
-
+![Trello](https://github.com/TurunenP/NewsApp/assets/43337898/60f2f037-2df6-401d-ac3e-a43c15310d92)
 
 ## Poster
 [Mobile_Programming Poster.pptx](https://github.com/TurunenP/NewsApp/files/12389017/Mobile_Programming.Poster.pptx)
@@ -38,5 +38,13 @@ Once you've cloned the Flutter app repository, navigate to the project directory
 
 ## Run
 flutter pub get
+
+## Contributor
+This project was developed by:
+
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/NewsApp)
+
+Feel free to contribute to the project by submitting a pull request.
+
 
 
