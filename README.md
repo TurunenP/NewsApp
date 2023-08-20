@@ -15,16 +15,18 @@ News App developed with Flutter and API from - [NewsAPI)](https://newsapi.org/):
 
 
 ## Poster
-[Poster.pptx](https://github.com/TurunenP/helsinki-city-bikes/files/11345997/Poster.pptx)
+[Mobile_Programming Poster.pptx](https://github.com/TurunenP/NewsApp/files/12389017/Mobile_Programming.Poster.pptx)
 
 
 ## Get started
 Clone the repository on a directory of your choice.
 
+
 ## Prerequisites
 Install Flutter SDK: 
 - [Flutter SDK)](https://flutter.dev/docs/get-started/install)
-
+- [Android Studio)](https://developer.android.com/studio)
+  
 Install Dart: 
 - [Dart)](https://dart.dev/)
 
@@ -32,7 +34,9 @@ Set Up PATH:
 Add the Flutter binary path to your system's PATH variable. This allows you to run Flutter commands from any terminal window. 
 
 Install Dependencies:
-Once you've cloned the Flutter app repository, navigate to the project directory using the terminal and run the following command to install the app's dependencies:
-Run: flutter pub get
+Once you've cloned the Flutter app repository, navigate to the project directory using the terminal and run the following command to install the app's dependencies.
+
+## Run
+flutter pub get
 
 
