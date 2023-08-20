@@ -15,7 +15,7 @@ News App developed with Flutter and API from - [(NewsAPI)](https://newsapi.org/)
 ![Trello](https://github.com/TurunenP/NewsApp/assets/43337898/60f2f037-2df6-401d-ac3e-a43c15310d92)
 
 ## Poster
-[Mobile_Programming Poster.pptx](https://github.com/TurunenP/NewsApp/files/12389017/Mobile_Programming.Poster.pptx)
+[Mobile_Programming Poster.pptx](https://github.com/TurunenP/NewsApp/files/12389107/Mobile_Programming.Poster.pptx)
 
 
 ## Get started
